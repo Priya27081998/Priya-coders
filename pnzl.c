@@ -17,4 +17,5 @@ void main()
       printf("you have entered zero");
       }
       return 0;
+ 
       }
